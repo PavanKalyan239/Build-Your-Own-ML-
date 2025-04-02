@@ -198,9 +198,3 @@ y = 3X + 5
 ---
 
 # 🎯 Key Takeaways
-
-✅ **Linear Regression** finds the best line for a dataset.
-✅ **Gradient Descent** is used to optimize parameters.
-✅ **The learning rate (α)** controls the speed of convergence.
-✅ **With enough iterations, the model learns the correct values!**
-
